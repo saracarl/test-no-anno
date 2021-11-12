@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/sara.json",
+  "type": "AnnotationPage",
+  "label": "sara",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/sara-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "a <b>bold</b> annotation with: a colon",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "5.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/sara-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "an <i>italicized</i> annotation with; a semicolon",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "5.0"
+        }
+      }
+    }
+  ]
+}

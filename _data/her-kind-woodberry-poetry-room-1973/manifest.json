@@ -8,6 +8,14 @@
         "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
         "type": "Canvas",
         "duration": 159,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/sara.json",
+            "label": "sara"
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/paintings",
