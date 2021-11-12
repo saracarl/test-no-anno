@@ -3,34 +3,11 @@
     "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Her Kind, Woodberry Poetry Room, 1973" ] },
-    "homepage": [
-      {
-        "id": "",
-        "type": "Text",
-        "label": { "en": [ "Her Kind, Woodberry Poetry Room, 1973" ] },
-        "format": "text/html"
-      }
-    ],
-    "provider": [
-      {
-        "id": "",
-        "type": "Agent",
-        "label": { "en": [ "" ] }
-      }
-    ],
     "items": [
       {
         "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas",
         "type": "Canvas",
         "duration": 159,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/canvas/sara.json",
-            "label": "sara"
-          }
-        ],
         "items": [
           {
             "id": "https://saracarl.github.io/test-no-anno/her-kind-woodberry-poetry-room-1973/canvas-1/paintings",
